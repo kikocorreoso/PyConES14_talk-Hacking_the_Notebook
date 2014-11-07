@@ -1,4 +1,4 @@
-PyConES14_talk-Hacking__Notebook
+PyConES14_talk-Hacking_the_Notebook
 =============================================
 
 My talk at the PyConES 2014. How to convert the IPython notebook in your lethal weapon
