@@ -9,7 +9,7 @@ to your needs and workflow.
 If you want to use this repo you will need to install Python, IPython and all their requirements. 
 Some notebooks will need IPython version >=2 (actual stable version is 2.3.0) and others the development 
 version (now it is 3,0,'dev'). In some notebooks there are some examples that use numpy, matplotlib. 
-You can avoid or modify this examples if you don't want to install this libraries.
+You can avoid or modify this examples if you don't want to install these libraries.
 
 Notebooks on nbviewer
 =====================
